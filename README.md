@@ -7,8 +7,6 @@
 - **20250626**:
   - 학습 목표: 자바 설치, 기본 출력 실습
   - `Hello, World!` 프로그램 작성
-  - https://sw1mm1n.tistory.com/15
 
 - **20250627**:
   - 학습 목표: 자바 자료형
-  - https://sw1mm1n.tistory.com/16
